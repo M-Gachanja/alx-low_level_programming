@@ -1,4 +1,4 @@
-#!/usr/bin/python35-main.py
+#!/usr/bin/python3
 """
 5-main
 """
